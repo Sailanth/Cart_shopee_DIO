@@ -1,5 +1,7 @@
-# Cart_shopee_DIO
-Carrinho de Compras da Shopee com Node.js. Baseado no código de [Felipe Aguiar](https://github.com/felipeAguiarCode)
+<div align="center"> 
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/7d6ab831-445a-4e1a-b359-38704519a6bf" />
+</div>
+
 
 # 🛒 Shopee Cart (Simulação de Carrinho de Compras)
 
@@ -31,4 +33,5 @@ Agora:
 
 ```js
 addItem(cart, item);
-
+````
+## Baseado no código de [Felipe Aguiar](https://github.com/felipeAguiarCode)
